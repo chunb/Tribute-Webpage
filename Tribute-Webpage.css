@@ -1,0 +1,18 @@
+h1 {
+  font-size: 100px;
+}
+
+h2 {
+  font-family: Times New Roman;
+}
+
+p {
+  font-size: 20px;
+}
+
+body {
+  background-image: url(http://www.festivalsday.com/wp-content/uploads/2016/07/India-Flag-Free-HD-Wallpapers.jpg);
+  background-color: gray;
+  background-blend-mode: lighten;
+  color: black;
+}
